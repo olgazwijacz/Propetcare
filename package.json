@@ -18,7 +18,7 @@
     "g": "^2.0.1",
     "gsap": "^3.0.5",
     "normalize.scss": "^0.1.0",
-    "three": "^0.112.1",
+    "three": "^0.137.0",
     "uniq": "^1.0.1",
     "@babel/core": "^7.0.0",
     "@babel/runtime-corejs2": "^7.0.0",
